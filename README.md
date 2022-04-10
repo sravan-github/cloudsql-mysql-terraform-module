@@ -1,1 +1,2 @@
-# cloudsql-mysql-terraform-module
+# terraform-gcp-tutorial
+terraform-gcp-tutorial
