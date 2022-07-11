@@ -7,7 +7,7 @@ module "mysql-db" {
   source               = "../"
   name                 = "example-mysql-private"
   random_instance_name = true
-  project_id           = "gcp-practice-secondary-prj"
+  project_id           = "dolphine-project"
 
   deletion_protection = false
 
