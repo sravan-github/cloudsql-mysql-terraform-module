@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "dolphine-project",
-  "private_key_id": "44da6642aad6f7ae04169cad76074786bd59e5e0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJPMKu/F/DyrSC\nACejlIDoliNSHATe4lUFork8p4kivR4CkAyFQi/ZX7NSmAJL7GUozXFimdd/IQlM\n/IfJSLFl1zw5OOqeaBw2oGYtaSaqkwwCnQhIO16TxmZC2xgj3ko54QaM97OKRrMn\naECjx3P18BGWw844Z3X2HxmQRcvvELmmEfkpaqyyjBKKkLvVa1caqT2Sjbchcu+G\npP8zZh6HYDj7cvuPvTd4diYtCFZLeGdz37JPx16TXQ1E8qQQujm1rDJI+3xFk4Oh\nn1YAkt88n+2LBlzQVBd68fMxycvoX/KipeHDUjb9w9I1xvCVufKet1ShPfyTWZ+h\nEp01fXnrAgMBAAECggEALf5bEOIsBiZNULRUlJIUkd6ff8k8KKaZ8AWVJyrO3wGa\nqSk1yQNhnexg4PFo86EKVh5kPbNpcYXU5CROLbtbGNKFsHfOycAClJw1Ikr3Vntp\nrwaJ3AtpqwT3CLj84iiBn9w2oc/yMAl5yV87KqiRyH7opiqBVo32DsJlguChdEEd\nCemdOpbtpq1Be6JaXu2ALMVLAv8imJ4PU40EqVU+64UU9XxfhP1CwWyTO5tIR9ok\n01fafUuYxrFFQbRJVQvkbjdhuj/EFus6HwGPUWbMlNqNox05iMx795kr3Wh5Sd67\naSL9D/2ntfLEsg45b08qH081aYNxktB18YmUe3nMgQKBgQDAKgTKPI6pFT/fKUCu\n41jy5QH/EOC0jFsgx6aCBp4E52S/tCCSOvHCnnGAEgwwT3YQV+sXK4I3O9qukesc\nPRb0qfBRqp2Eh+M2oZy2RIwkdacDVrXlbjtVFBDJACskt7/ty/fnOIv1AUSBHJUn\nuCLuwlhBnlHbmx6UdG5mB+3E8QKBgQC206thgehF2GFRiLXBfyaW0HeNevvgIb4/\ndWvEknEB+pF/N1ycIg+qwv6scaAeTUoJX5iBuC02a6wwshQ5ESoJNJ+UI9PkvBCb\n84Tzhp6lkYHcSqjOlsF5fAhVVeMzxhgaAaMLJr03dFU7sH6finTTHL2RcPCRiOu7\nMd5gPUr8mwKBgG7vUviVYR5HgCoKnKbZ5J3EixR+39obNPiFiaCCxXK7SrRI/oys\nrqjV41w2DwdMuDHTL4qeuXu9eA9TedFBiyEPggcDYhACiq8dOWUXyXe63AHXawba\nTjJddRs0l7OIyKo1GBZJ1LJKWwvWPl1Bthjz5RNsnIEU2eCGHr2UUjVhAoGAIA5f\nF1qywkRdU/F3hPTpbDojLDBrJ3JjLDdHbREMNX+csUSgvVOPka5c/xlxLL76g0g6\nskv7yXX5nBQtTZA/4ZtTe6MIjSuYce+x2Q06lec8cMa6cHaod8eSonvLuZE7Opwc\n3WCufqGsLCoXGZwqPbXlWzIFTE9InerxhchZdI8CgYBu0AChqA9uQuc4JgoJ/nRT\ncyw2Sw9kEOnxfs7gR6UH3lcavdA7cm8VoRuGoDarEL8z2dbP3x8kWemDPBTnsv+H\nDp/YOn/L2pyGLzohvExZ8fi1ItA2aYmqK++QkghsljnZ75iialp7hfdL5EdVbtmX\nn8JF6L7MtbcWSGLHEcW1lA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "admin-account@dolphine-project.iam.gserviceaccount.com",
-  "client_id": "112144842278823037054",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-account%40dolphine-project.iam.gserviceaccount.com"
-}
+12
