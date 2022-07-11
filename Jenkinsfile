@@ -11,7 +11,7 @@ pipeline {
       steps {
         sh '''
             git clone https://github.com/sravan-github/cloudsql-mysql-terraform-module.git
-            ls -l
+            ls -ltr
             pwd
             export GOOGLE_APPLICATION_CREDENTIALS="./gcp-key.json"
             #terraform init
