@@ -10,13 +10,13 @@ pipeline {
     stage('Hello') {
       steps {
         sh '''
-            git clone https://github.com/sravan-github/terraformgcp.git
+            git clone https://github.com/sravan-github/cloudsql-mysql-terraform-module.git
             ls -l
             pwd
             export GOOGLE_APPLICATION_CREDENTIALS="./gcp-key.json"
-            terraform init
-            terraform plan
-            terraform apply --auto-approve
+            #terraform init
+            #terraform plan
+            #terraform apply --auto-approve
             '''
       }
     }
