@@ -4,7 +4,7 @@ resource "random_id" "suffix" {
 
 
 module "mysql-db" {
-  source               = "../"
+  source               = "../cloudsql-mysql-terraform-module/terraform-gcp-mysql-main"
   name                 = "example-mysql-private"
   random_instance_name = true
   project_id           = "dolphine-project"
