@@ -16,8 +16,8 @@ pipeline {
             export GOOGLE_APPLICATION_CREDENTIALS="./gcp-key.json"
             cd terraform-gcp-mysql-main/example
             ls -ltr
-            #terraform init
-            #terraform plan
+            terraform init
+            terraform plan
             #terraform apply --auto-approve
             '''
       }
